@@ -1,0 +1,12 @@
+.container-fluid{
+    max-width: auto;
+}
+.container{
+    max-width: 98rem;
+    margin: 0 auto;
+}
+
+.content{
+    text-transform: uppercase;
+    margin: 3.2rem;
+}
