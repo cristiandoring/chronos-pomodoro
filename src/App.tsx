@@ -4,6 +4,7 @@ import './styles/global.css'
 
 import { Container } from './components/Container/Container'
 import { Logo } from './components/Logo/Logo'
+import { Menu } from './components/Menu/Menu'
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
       </Container>
 
       <Container>
-        Home
+        <Menu/>
       </Container>
 
       <Container>
